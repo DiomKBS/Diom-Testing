@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "microcontroller")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/microcontroller.kicad_sym")(options "")(descr ""))
+  (lib (name "randomSymbols")(type "KiCad")(uri "${GITREPO}/DiomKBS-Switches/randomSymbols.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${GITREPO}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${GITREPO}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
